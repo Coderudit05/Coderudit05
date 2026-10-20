@@ -9,7 +9,7 @@ I build web applications, explore practical AI integrations, and help beginners 
 - **I enjoy:** building useful interfaces, explaining technical concepts, and turning learning into hands-on projects
 - **Based in:** Bhopal, Madhya Pradesh, India
 
-[Portfolio](https://my-portfolio-testimonials.web.app/) · [LinkedIn](https://www.linkedin.com/in/udit-namdev/) · [YouTube](https://www.youtube.com/) · [Email](mailto:)
+[Portfolio](https://my-portfolio-testimonials.web.app/) · [LinkedIn](https://www.linkedin.com/in/udit-namdev/)
 
 ---
 
